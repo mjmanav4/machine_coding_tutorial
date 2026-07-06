@@ -12,10 +12,9 @@ https://medium.com/@manav.jain.tube/machine-coding-question-design-a-tic-tac-toe
 
 ---
 
-## Q3. Design a Tic-Tac-Toe Game
+## Q3. Design a Snake and ladder Game
 
-https://medium.com/@manav.jain.tube/machine-coding-question-design-a-tic-tac-toe-game-bbfa6b69a4d5
-
+https://medium.com/@manav.jain.tube/machine-coding-question-design-a-snake-and-ladder-game-378545ec653c
 ---
 
 ## Q4. Design a Logging Library Like Log4j
